@@ -149,7 +149,7 @@ export default function Home() {
         {/* 하단 정보 */}
         <div className="text-center mt-8 text-white/80">
           <p className="text-sm mb-2">
-            🚀 영리치 도메인으로 비즈니스를 한 단계 업그레이드하세요
+            🚀 영리치 도메인으로 금융 특화 도메인을 선점하세요!
           </p>
           <p className="text-xs opacity-70">© 2025 0rich.com Domain Sales</p>
         </div>
